@@ -1,4 +1,4 @@
-## Hi there 👋
+##OLÁ, SOU ESTÁGIO EM DESENVOLVIMENTO DE BOT                    PARA WHATSAPP  
 
 <!--
 **REYESCDR/REYESCDR** is a ✨ _special_ ✨ repository because its `cdr` (this file) appears on your GitHub profile.
